@@ -37,7 +37,7 @@ The program takes a string input from the user, converts it to lowercase, and th
 
 1. Run the script:
     ```sh
-    python encryption_chaos.py
+    python main.py
     ```
 2. Enter the word you want to sanitize when prompted:
     ```
